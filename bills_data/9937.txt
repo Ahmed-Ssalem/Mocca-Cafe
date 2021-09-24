@@ -1,0 +1,18 @@
+	welcome in mocca caf�
+
+ Bill Number :  9937
+ Customer Name :  Ahmed Ali
+ Phone Nomber :  0123456789
+======================================
+ product		QTY		price
+======================================
+ Turkish Coffe		2		30
+ Mocca		1		23
+ Banana Juice		5		125
+ Mango I.C		1		17
+--------------------------------------
+ Hot Drinks Tax				5.3
+ Fruit Juice Tax				12.5
+ Ice Cream Tax				1.7
+ Total Bill : 				214.5
+--------------------------------------

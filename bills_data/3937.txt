@@ -1,0 +1,18 @@
+	welcome in mocca caf�
+
+ Bill Number :  3937
+ Customer Name :  Mohamed Ali
+ Phone Nomber :  0123203206
+======================================
+ product		QTY		price
+======================================
+ Nescaf�		2		42
+ late		3		75
+ Orange Juice		4		80
+ Oreo I.C		3		60
+--------------------------------------
+ Hot Drinks Tax				11.7
+ Fruit Juice Tax				8.0
+ Ice Cream Tax				6.0
+ Total Bill : 				282.7
+--------------------------------------

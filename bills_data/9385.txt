@@ -1,0 +1,21 @@
+	welcome in mocca caf�
+
+ Bill Number :  9385
+ Customer Name :  Mohamed Ali
+ Phone Nomber :  01235230132
+======================================
+ product		QTY		price
+======================================
+ Royal Tea		2		24
+ Nescaf�		3		63
+ Mocca		2		46
+ Mango Juice		1		25
+ Pineapple Juice		1		25
+ Vanilla I.C		5		75
+ Oreo I.C		2		40
+--------------------------------------
+ Hot Drinks Tax				13.3
+ Fruit Juice Tax				5.0
+ Ice Cream Tax				11.5
+ Total Bill : 				327.8
+--------------------------------------

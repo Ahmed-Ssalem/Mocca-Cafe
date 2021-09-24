@@ -1,0 +1,13 @@
+	welcome in mocca caf�
+
+ Bill Number :  9157
+ Customer Name :  
+ Phone Nomber :  
+======================================
+ product		QTY		price
+======================================
+ Turkish Coffe		5		75
+--------------------------------------
+ Hot Drinks Tax				7.5
+ Total Bill : 				82.5
+--------------------------------------
