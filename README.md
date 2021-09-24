@@ -1,6 +1,12 @@
 # Mocca-Cafe
 - Mocca-Cafe is a desktop application to manage cafes.
 
+## Description
+> Mocca-Cafe app provides the following features:
+- Billing calculation for all products
+- Saving all printed bills.
+- Searching about any saved bill.
+
 ## Example of app
 
 ![Untitled Project](https://user-images.githubusercontent.com/62884380/134725524-b3708255-cf07-4139-8ca2-facd1a681eca.gif)
@@ -26,5 +32,30 @@
 - When you press the "Exit" button.
 
 ![Capture7](https://user-images.githubusercontent.com/62884380/134727058-35db61d6-5037-427f-b135-3079887eb860.PNG)
+
+- When you press the "Print Bill" button without entering any values for the products.
+
+![Capture8](https://user-images.githubusercontent.com/62884380/134727249-7444923c-69e2-4c9f-aeb6-b480c9f57a4a.PNG)
+
+- When you search about bill that isn't exist
+ 
+![Capture8](https://user-images.githubusercontent.com/62884380/134727505-eb38cbe6-945d-4eb3-99da-ed6b6e3ec488.PNG)
+
+
+## Lisence
+Copyright 2021 Ahmed Salem
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
 
 
